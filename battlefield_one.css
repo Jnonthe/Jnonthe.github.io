@@ -1,3 +1,169 @@
 @charset "UTF-8";
 /* CSS Document */
 
+
+#background {
+	margin-right: auto;
+	margin-left: auto;
+	background-color: #0F0E0E;
+	border-width: medium;
+	background-image: url(bground.jpg);
+	background-position: 0% 0%;
+	margin-top: auto;
+	margin-bottom: auto;
+	background-size: contain;
+}
+#header {
+	margin-right: auto;
+	margin-left: auto;
+	width: 960px;
+	/* [disabled]background-color: #0A0909; */
+	height: 19px;
+	border-left: medium none #700D0F;
+	border-right: medium none #FFFFFF;
+	border-bottom: thin solid #DBD8D8;
+	border-top: medium none #700D0F;
+	margin-top: 17px;
+	margin-bottom: 41px;
+	border-radius: 0px;
+}
+#banner {
+	width: 960px;
+	background-color: #948F8F;
+	margin-top: 0px;
+	margin-bottom: 6px;
+	
+	background-size: 100% 100%;
+	background-position: center center;
+	float: left;
+	height: 540px;
+}
+#navigation {
+	background-color: #BFBCBC;
+	margin-bottom: 18px;
+	height: 33px;
+	clear: left;
+}
+.split_columns1 {
+	height: 400px;
+	width: 300px;
+	background: url(img2.png);
+	float: left;
+	margin-right: 5px;
+	margin-left: 12px;
+	margin-top: -6px;
+	margin-bottom: 30px;
+	opacity: 1;
+}
+.split_columns2 {
+	height: 400px;
+	width: 300px;
+	background:url(img3.png);
+	float: left;
+	margin-right: 5px;
+	margin-left: 12px;
+	margin-top: -6px;
+	margin-bottom: 30px;
+}
+.split_columns3 {
+	height: 400px;
+	width: 299px;
+	background:url(img1.png);
+	float: left;
+	margin-right: 5px;
+	margin-left: 12px;
+	margin-top: -6px;
+	margin-bottom: 30px;
+}
+#footer {
+	background-color: #948387;
+	width: 960px;
+	height: 30px;
+	clear: both;
+	margin-top: 5px;
+	margin-bottom: 23px;
+}
+#master {
+	margin-right: auto;
+	margin-left: auto;
+	width: 960px;
+}
+
+#left_tab {
+	font-family: Segoe, "Segoe UI", "DejaVu Sans", "Trebuchet MS", Verdana, sans-serif;
+	width: 168px;
+	height: 20px;
+	float: left;
+	margin-right: 5px;
+	margin-left: 0px;
+	margin-top: -6px;
+	color: #FFFFFF;
+	background-size: 110% auto;
+}
+#right_tab {
+	font-family: Consolas, "Andale Mono", "Lucida Console", "Lucida Sans Typewriter", Monaco, "Courier New", monospace;
+	width: 66px;
+	height: 18px;
+	float: left;
+	margin-right: -1px;
+	margin-top: -6px;
+	color: #FFFFFF;
+	margin-left: 722px;
+}
+.hrr {
+	clear: left;
+}
+#textbox1 {
+	font-family: Gotham, "Helvetica Neue", Helvetica, Arial, sans-serif;
+	color: #FFFFFF;
+	font-style: normal;
+	font-weight: lighter;
+	text-decoration: underline;
+	text-shadow: 0px 0 0;
+	word-spacing: 0;
+	margin-right: 35px;
+	margin-left: 39px;
+	margin-top: 9px;
+	border-radius: 11px;
+	background-color: #000000;
+	opacity: 0.58;
+	padding-top: 12px;
+	padding-right: 0px;
+	padding-bottom: 12px;
+	padding-left: 12px;
+}
+#textbox2 {
+	font-family: Gotham, "Helvetica Neue", Helvetica, Arial, sans-serif;
+	color: #0F0D0D;
+	font-style: normal;
+	font-weight: normal;
+	text-decoration: none;
+	opacity: 0.58;
+	padding-bottom: 5px;
+	font-size: 21px;
+	margin-left: 5px;
+	border-width: thin;
+	border-style: none;
+	background-color: #FFFFFF;
+	margin-right: 5px;
+	padding-top: 5px;
+	padding-right: 5px;
+	padding-left: 5px;
+	border-radius: 8px;
+}
+a:link {
+    text-decoration: none;
+	color: white;
+}
+
+a:hover {
+    color: hotpink;
+	
+}
+a:visited {
+  color: white;
+}
+
+#formbox {
+	background-color: #90D591;
+}
