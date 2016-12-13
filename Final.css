@@ -1,0 +1,209 @@
+@charset "UTF-8";
+/* CSS Document */
+#dw {
+	width: 15%;
+	height: 88%;
+}
+#headerimg{
+	background-color: #151C18;
+	text-align: left;
+	background-image: url(mountain_green.jpg);
+	background-repeat: no-repeat;
+	background-position: 43% -2%;
+	background-size: 101% 96%;
+	margin-left: auto;
+	margin-right: auto;
+	width: 100%;
+	margin-top: -19px;
+}
+#dwi {
+	width: 75%;
+	height: 50%;
+}
+#header {
+	font-family: source-sans-pro;
+	font-style: normal;
+	font-weight: 200;
+	color: #004D30;
+	width: 100%;
+	height: 26px;
+	font-variant: small-caps;
+	font-size: large;
+	text-shadow: 2px 7px 4px #91E37C;
+	border-radius: 0px;
+	text-align: right;
+	margin-right: 54px;
+}
+
+.ltt {
+	width: 100px;
+	display: inline;
+	text-align: center;
+	font-family: Constantia, "Lucida Bright", "DejaVu Serif", Georgia, serif;
+	font-style: normal;
+	color: #FFFFFF;
+	float: none;
+	margin-right: 30px;
+	margin-left: 30px;
+	text-decoration: underline;
+	font-size: large;
+}
+#header p {
+	width: 98%;
+}
+.maincontent {
+	width: 95%;
+	text-align: center;
+	margin-right: auto;
+	margin-left: auto;
+	border-radius: 8px;
+	background-color: #C6D3CF;
+	-webkit-box-shadow: 1px 1px 1px 0px;
+	box-shadow: 1px 1px 1px 0px;
+}
+body {
+	width: 100%;
+	height: 100%;
+	margin-left: 1px;
+	background-color: #D3DEC6;
+}
+#menubox {
+	width: 100%;
+	height: 31px;
+	background-color: #2B4432;
+}
+.maincontent_header {
+	background-color: #FFFFFF;
+	height: 8%;
+	width: 100%;
+	margin-top: 18px;
+	padding-top: 0px;
+	font-family: source-sans-pro;
+	font-style: normal;
+	font-weight: 400;
+	font-size: x-large;
+}
+.tutorial {
+	width: 100%;
+	text-align: left;
+	margin-left: 10px;
+	height: 100%;
+}
+.h31 {
+	margin-top: -18px;
+	font-family: Constantia, "Lucida Bright", "DejaVu Serif", Georgia, serif;
+	font-style: normal;
+	font-weight: lighter;
+}
+h4 {
+}
+.h21 {
+	margin-top: -24px;
+}
+.img3 {
+	width: 77%;
+	height: 0%;
+}
+img {
+	width: 100%;
+	height: 50%;
+	margin-top: 4px;
+	margin-bottom: 15px;
+}
+.img2 {
+	float: none;
+	width: 10%;
+	height: 10%;
+	-webkit-transition: all 0s ease 0s;
+	-o-transition: all 0s ease 0s;
+	transition: all 0s ease 0s;
+	display: block;
+}
+ul li a {
+	color: #FDFDFD;
+	-webkit-transition: all 1s;
+	-o-transition: all 1s;
+	transition: all 1s;
+}
+.img3 {
+	width: 77%;
+	height: 0%;
+}
+.img4 {
+	width: 77%;
+	height: 0%;
+}
+.img5 {
+	width: 100%;
+	height: 50%;
+}
+.img6{
+	width: 77%;
+	height: 0%;
+}
+.img7 {
+	width: 77%;
+	height: 0%;
+}
+.img8 {
+	width: 77%;
+	height: 0%;
+}
+.img9 {
+	width: 77%;
+	height: 0%;
+}
+.img10 {
+	width: 77%;
+	height: 0%;
+}
+.img11 {
+	width: 100%;
+	height: 50%;
+}
+.img12 {
+	width: 100%;
+	height: 50%;
+}
+.imgweb1 {
+	width: 100%;
+	height: 50%;
+}
+.imgweb2 {
+	width: 100%;
+	height: 50%;
+}ul li a:hover {
+	color: #00FF28;
+}
+.img2:hover {
+	height: auto;
+	width: 50%;
+}
+.video {
+	width: 100%;
+	height: 500px;
+	margin-left: auto;
+	margin-right: auto;
+}
+.ppanel {
+	width: 25%;
+	height: 25%;
+	display: inherit;
+	margin-right: auto;
+	margin-left: auto;
+	float: none;
+}
+.ppmain {
+	width: 80%;
+	-webkit-transition: all 0s ease 0s;
+	-o-transition: all 0s ease 0s;
+	transition: all 0s ease 0s;
+	color: #567160;
+}
+.ppmain:hover {
+	font-weight: bolder;
+	color: #090909;
+}
+.youtube {
+	width: 80%;
+}
