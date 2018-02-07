@@ -1,0 +1,55 @@
+@charset "UTF-8";
+.top_logo img {
+	width: 100%;
+	height: auto;
+	padding-left: auto;
+	padding-right: auto;
+}
+header {
+	width: 100%;
+	text-align: center;
+	height: auto;
+	background-color: #7B96F6;
+	color: #FFFFFF;
+	font-family: Baskerville, "Palatino Linotype", Palatino, "Century Schoolbook L", "Times New Roman", serif;
+	font-style: normal;
+	font-variant: normal;
+	font-weight: bold;
+	font-size: x-large;
+	margin-top: -12px;
+}
+.link_nav {
+	color: #7B96F6;
+}
+body {
+	width: 100%;
+	background-color: #FBEFDC;
+	float: left;
+	margin-left: -0.5px;
+}
+li {
+	list-style-image: none;
+	list-style-type: none;
+	float: none;
+	display: inline;
+	margin-right: 5%;
+	background-color: #FFFFFF;
+	padding-right: 2%;
+	padding-left: 2%;
+	width: 80%;
+}
+.body_text {
+	background-color: #FFFFFF;
+}
+.body_wrap {
+	width: 90%;
+	margin-right: auto;
+	margin-left: auto;
+}
+ul {
+	text-align: center;
+}
+.yugimon {
+	width: 100%;
+	height: auto;
+}
